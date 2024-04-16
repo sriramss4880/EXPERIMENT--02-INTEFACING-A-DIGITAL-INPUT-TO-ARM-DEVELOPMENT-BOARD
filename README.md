@@ -1,7 +1,10 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-#Name : SRIRAM S S
-#Roll no : 212222230150
-#Date of experiment :
+Name : SRIRAM S S
+
+Roll no : 212222230150
+
+Date of experiment :
+
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: 
