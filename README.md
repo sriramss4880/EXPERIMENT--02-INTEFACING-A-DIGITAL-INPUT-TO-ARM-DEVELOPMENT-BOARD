@@ -1,4 +1,7 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+Name : SRIRAM S S
+Roll no : 212222230150
+Date of experiment :
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: 
@@ -151,8 +154,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
+#### LED ON
 ![image](https://github.com/kaviya2839/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120553351/b6b1f1e9-2c7c-44a6-9001-6490376291ad)
 
+#### LED OFF
 ![image](https://github.com/kaviya2839/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120553351/9801b9f4-0c40-441a-bf44-498789a7be43)
 
 
